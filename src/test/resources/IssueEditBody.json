@@ -1,0 +1,8 @@
+{
+  "fields":
+  {
+    "summary": "Edit issue",
+    "description": "Editing issue using the REST API",
+    "priority":{"name" : "High"}
+  }
+}

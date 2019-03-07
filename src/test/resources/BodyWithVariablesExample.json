@@ -1,0 +1,15 @@
+{
+  "fields": {
+    "project": {
+      "id": "${projectId}"
+    },
+    "summary": "${summary}",
+    "issuetype": {
+      "id": "${issueTypeId}"
+    },
+    "reporter": {
+      "name": "admin"
+    },
+    "description": "${description}"
+  }
+}
